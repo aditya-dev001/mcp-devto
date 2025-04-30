@@ -1,0 +1,13 @@
+{
+    "servers": {
+        "mcp-devto": {
+            "type": "stdio",
+            "command": "dotnet",
+            "args": [
+                "run",
+                "--project",
+                "d:\\website\\dev\\mcp-devto\\mcp-devto\\mcp-devto\\mcp-devto.csproj"
+            ]
+        }
+    }
+}
