@@ -1,4 +1,4 @@
-# MCP Dev.to Integration
+# MCP - Dev.to
 
 This project integrates with the [Dev.to API](https://developers.forem.com/api) to provide tools for interacting with articles, users, and other resources on the platform. It is built using .NET 9.0 and leverages the ModelContextProtocol framework for server-side tooling.
 
